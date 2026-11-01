@@ -9,7 +9,7 @@ import streamlit as st
 # 1. Locate the trained model inside the repository
 # ---------------------------------------------------------
 PROJECT_ROOT = Path(__file__).resolve().parent
-MODEL_PATH = PROJECT_ROOT / "deployment" / "best_model.joblib"
+MODEL_PATH = PROJECT_ROOT / "best_model.joblib"
 
 # These columns must match the features used in train.py.
 FEATURE_COLUMNS = [
