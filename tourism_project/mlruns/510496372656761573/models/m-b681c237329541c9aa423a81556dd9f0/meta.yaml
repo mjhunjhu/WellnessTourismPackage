@@ -1,0 +1,10 @@
+artifact_location: file:///content/tourism_project/mlruns/510496372656761573/models/m-b681c237329541c9aa423a81556dd9f0/artifacts
+creation_timestamp: 1793541247714
+experiment_id: '510496372656761573'
+last_updated_timestamp: 1793541255079
+model_id: m-b681c237329541c9aa423a81556dd9f0
+model_type: null
+name: best_model
+source_run_id: 435b0507559540d1ab881a6f52095012
+status: 2
+status_message: null
